@@ -1,0 +1,13 @@
+.navbar-brand>img {
+  width:20%;
+}
+
+body { padding-top: 90px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 80px; }
+}
+
+
+.buttonIconsPers {
+	font-size:40px;
+}
